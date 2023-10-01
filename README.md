@@ -22,4 +22,5 @@ module des voitures :
 --------
 --------
 affichage des cartes via Bootstrap
-* à faire le tri
+*à faire le tri
+--------
