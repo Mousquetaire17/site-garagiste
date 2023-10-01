@@ -26,3 +26,10 @@ affichage des cartes via Bootstrap
 --------
 *à faire le tri
 --------
+--------
+module login :
+--------
+seulement un formulaire d'afficher
+--------
+cliquer sur le lien en-dessous pour la landingpage après login
+--------
