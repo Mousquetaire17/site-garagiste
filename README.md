@@ -19,8 +19,8 @@ affichage, modification
 --------
 *la modif des horaires du magasin seulement pour la première heure et les lundis et mardis
 --------
-module des voitures :
 --------
+module des voitures :
 --------
 affichage des cartes via Bootstrap
 --------
