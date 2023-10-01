@@ -16,11 +16,13 @@ affichage, création, modification, suppression : sans limite
 module des horraires :
 --------
 affichage, modification
+--------
 *la modif des horaires du magasin seulement pour la première heure et les lundis et mardis
 --------
 module des voitures :
 --------
 --------
 affichage des cartes via Bootstrap
+--------
 *à faire le tri
 --------
